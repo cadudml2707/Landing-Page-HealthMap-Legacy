@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+*{
+
+    font-family: 'Poppins', sans-serif;
+}
+body{
+
+    background: repeating-linear-gradient(to bottom, #3173F3, #00266F);
+    padding-top: 4.5rem;
+}
+main{
+
+    background-color: white;
+    width: 100%;
+}
+.nav-bar{
+
+    background: repeating-linear-gradient(90deg, #3173F3, #00266F) ;
+}
+.menu-item{
+
+    color: white;
+}
+.menu-item-download{
+
+    color: #3173F3;
+    background-color: white;
+    padding: 0.7rem;
+    border: none;
+    border-radius: 30px;
+}
+.know-project{
+
+    padding: 5rem;
+}
+.paragraphy{
+
+    width: 60%;
+    text-align: justify;
+}
+.paragraphy > h2{
+
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+.know-objetivo{
+
+    padding: 5rem;
+}
+.paragraphy-2 > h2{
+
+    margin-bottom: 2rem;
+}
+.paragraphy-2{
+
+    width: 60%;
+    text-align: justify;
+}
+.team-hm{
+
+    padding: 5rem;
+}
+.footer{
+
+    background: none;
+    color: white;
+}
